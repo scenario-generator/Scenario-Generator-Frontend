@@ -4,6 +4,7 @@ let backgrounds = {
   'Age of Empires 2':          ImagePath('backgrounds/age_of_empires_2.jpg'),
   'Age of Mythology':          ImagePath('backgrounds/age_of_mythology.jpg'),
   "Baldur's Gate":             ImagePath('backgrounds/baldurs_gate.jpg'),
+  "Baldur's Gate 3":           ImagePath('backgrounds/baldurs_gate_3.jpg'),
   'Battlefield 4':             ImagePath('backgrounds/battlefield_4.jpg'),
   'Civilization V':            ImagePath('backgrounds/civilization_v.jpg'),
   'Crusader Kings 2':          ImagePath('backgrounds/crusader_kings_2.jpg'),
